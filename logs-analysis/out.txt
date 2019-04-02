@@ -1,0 +1,17 @@
+Solutions to the Logs Analysis project.
+Udacity Full Stack Web Developer Nanodegree 2019.
+
+The three most popular articles of the news dataset are:
+candidate-is-jerk 	 - 	 338647 views
+bears-love-berries 	 - 	 253801 views
+bad-things-gone 	 - 	 170098 views
+
+The most popular authors of the news dataset are:
+Ursula La Multa 	 - 	 507594 views
+Rudolf von Treppenwitz 	 - 	 423457 views
+Anonymous Contributor 	 - 	 170098 views
+Markoff Chaney 	 - 	 84557 views
+
+The days where error rate is greater than 1% are:
+July 17 2016 		 - 	 2.26 % errors
+

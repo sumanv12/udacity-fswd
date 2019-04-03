@@ -18,7 +18,7 @@ After setting up the VM, log into it using `vagrant ssh`. Download the dataset [
 
 #### Run the Reporting Tool
 In order to solve question 3 of the project prompt above, we created a view of the dataset that counts both the total number of requests and errors on each day, as below:
-```
+```sql
 CREATE VIEW errorlog as 
 SELECT time::date, 
        count(status) as total, 
